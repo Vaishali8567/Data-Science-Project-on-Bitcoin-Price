@@ -1,4 +1,4 @@
-# Data-Science-Project---Cryptocurrency-Price-Forecasting
+# Data-Science-Project---Bitcoin-Price
 Data Source: Kaggle (https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data)
 Data Type: Tabular Data
 Time Frame: 2015–2023
